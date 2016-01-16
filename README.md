@@ -28,7 +28,7 @@ Python版本使用3.4，首先确保系统有Python3的环境。还没安装的�
 下载安装第三方依赖包：  
     
     (django_blog) $ cd /home/${user}/workspace #你可以把project下载到任意你想放的地方
-    (django_blog) $ git clone https://github.com/lzjun567/django_blog.git
+    (django_blog) $ git clone https://github.com/zuiwan/django_blog.git
     (django_blog) $ cd django_blog
     (django_blog) $ pip install -r requirements/dev.txt
     (django_blog) $ python manage.py syncdb
